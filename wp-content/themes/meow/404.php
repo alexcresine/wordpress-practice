@@ -7,6 +7,10 @@
  * @package WordPress
  * @subpackage Twenty_Nineteen
  * @since 1.0.0
+ *
+ * We created this branch to build out nthis new feature
+ * after we evaluated the feature, you decied it was ready to go live. 
+ * THis means we're MERGING it into the MASTER branch.
  */
 
 get_header();
